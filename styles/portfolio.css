@@ -139,3 +139,22 @@ main section {
 
     box-shadow: 0 6px 50px rgba(0, 0, 0, 0.08);
 }
+/* resume styles */
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
+.experience-sub-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.experience-description,.experience-sub-title {
+    color: rgb(117, 117, 117);
+}
+.resume hr {
+    margin: 20px 5px;
+}
+.btn-download-cv {
+    margin-top: 50px;
+}
